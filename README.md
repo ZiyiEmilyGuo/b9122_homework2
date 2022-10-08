@@ -1,12 +1,13 @@
 # b9122_homework2
 
 **Webcrawler Code 1**
+
 *Author Information:*
   1. Name: Kriste Krstovski, Adjunct Assistant Professor
   2. Office: 475 Riverside Drive, Office 320-M
   3. Email: kriste.krstovski@columbia.edu
 
-Description:
+*Description:*
   The code crawls pages whose seed url is the official website of Columbia Business School (https://www8.gsb.columbia.edu) and opens 10 child urls of teh seed url. The it prints out the stack of all urls that have seen so far.
   
 
