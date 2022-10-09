@@ -1,6 +1,6 @@
 # b9122_homework2
 
-**Webcrawler Code 1**
+**Webcrawler Code 1: webcrawler.py**
 
 *Author Information:*
   1. Name: Kriste Krstovski, Adjunct Assistant Professor
@@ -13,7 +13,7 @@
 
 **Webcrawler Code 2**
 
-*Author Information:*
+*Author Information: Homework 2_Ziyi Guo.ipynb*
   1. Name: Ziyi (Emily) Guo
   2. Program: MSAFA
   3. Email: ZGuo23@gsb.columbia.edu
